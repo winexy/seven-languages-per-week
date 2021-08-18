@@ -17,4 +17,7 @@ matrixSum := method(
   sum
 )
 
+matrixSum2 := method(matrx, matrix flatten sum)
+
 matrixSum(matrix) println
+matrixSum2(matrix) println
